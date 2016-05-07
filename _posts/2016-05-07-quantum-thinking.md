@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: QUANTUM THINKING
-datePublished: '2016-05-07T23:01:41.947Z'
-dateModified: '2016-05-07T23:01:30.883Z'
+datePublished: '2016-05-07T23:09:42.788Z'
+dateModified: '2016-05-07T23:01:50.603Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-quantum-thinking.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-quantum-thinking.md
 url: quantum-thinking/index.html
 _type: Article
 
